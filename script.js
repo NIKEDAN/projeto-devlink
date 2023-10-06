@@ -10,7 +10,7 @@ function toggleMode() {
 
     if (html.classList.contains('light')){
         // se tiver lightmode add img ligth
-       img.setAttribute('src', 'img/Avatar2.png')
+       img.setAttribute('src', 'img/Avatar-light.png')
        img.setAttribute('alt', 'Foto Simples de Lucas Oliveira')
     } else {
         // se tiver sem lightmode manter a  img
