@@ -15,7 +15,7 @@ function toggleMode() {
     } else {
         // se tiver sem lightmode manter a  img
         img.setAttribute("src", "img/Avatar.png")
-        img.setAttribute("alt", "Foto de Lucas Oliveira, usando óculos'")
+        img.setAttribute("alt", "Foto de Lucas Oliveira, usando óculos")
     }
 
 
